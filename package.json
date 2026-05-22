@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cloudinary": "^2.5.1",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
@@ -8,7 +9,7 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.6.1",
     "multer": "^2.1.1",
-    "cloudinary": "^2.5.1",
-    "multer-storage-cloudinary": "^4.0.0"
+    "multer-storage-cloudinary": "^4.0.0",
+    "uuid": "^11.1.1"
   }
 }
